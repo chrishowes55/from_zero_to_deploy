@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.3.4'
+
 gem 'heroku'
 gem 'rails',        '5.1.2'
 gem 'puma',         '3.9.1'
